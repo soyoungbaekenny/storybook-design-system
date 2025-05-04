@@ -66,3 +66,12 @@ export const Large = {
     </>
   ),
 };
+
+export const Controls = {
+  args: {
+    loading: false,
+    size: 'tiny',
+    username: 'Tom Coleman',
+    src: 'https://avatars2.githubusercontent.com/u/132554',
+  },
+};
